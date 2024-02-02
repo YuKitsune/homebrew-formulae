@@ -12,16 +12,16 @@ cask "sf-mono-nerd-font" do
     strategy :github_latest
   end
 
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Bold.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-BoldItalic.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Heavy.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-HeavyItalic.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Italic.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Light.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-LightItalic.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Medium.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-MediumItalic.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Regular.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-SemiBold.otf"
-  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-SemiBoldItalic.otf"
+  font "SFMonoNerdFont-Bold.otf"
+  font "SFMonoNerdFont-BoldItalic.otf"
+  font "SFMonoNerdFont-Heavy.otf"
+  font "SFMonoNerdFont-HeavyItalic.otf"
+  font "SFMonoNerdFont-Italic.otf"
+  font "SFMonoNerdFont-Light.otf"
+  font "SFMonoNerdFont-LightItalic.otf"
+  font "SFMonoNerdFont-Medium.otf"
+  font "SFMonoNerdFont-MediumItalic.otf"
+  font "SFMonoNerdFont-Regular.otf"
+  font "SFMonoNerdFont-SemiBold.otf"
+  font "SFMonoNerdFont-SemiBoldItalic.otf"
 end
