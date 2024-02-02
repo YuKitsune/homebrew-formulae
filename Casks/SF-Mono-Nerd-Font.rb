@@ -8,8 +8,8 @@ cask 'sf-mono-nerd-font' do
       strategy :github_latest
     end
 
-    name 'SF-Mono-Nerd-Font'
-    homepage 'https://github.com/YuKitsune/Cupertino'
+    name "SF-Mono-Nerd-Font"
+    homepage "https://github.com/YuKitsune/Cupertino"
 
     font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Bold.otf"
     font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-BoldItalic.otf"
