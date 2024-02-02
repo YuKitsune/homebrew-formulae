@@ -1,4 +1,4 @@
-cask "sf-mono-nerd-font" do
+cask "SF-Mono-Nerd-Font" do
   version "0.0.14"
   sha256 "d8de7a1e87ead7a5e13cb41e456d83e5d580c06b1e580e21c6e28927e55122be"
 
