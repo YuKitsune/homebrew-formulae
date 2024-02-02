@@ -1,10 +1,10 @@
-# YuKitsune Yukitsune
+# YuKitsune formulae
 
 ## How do I install these formulae?
 
-`brew install yukitsune/yukitsune/<formula>`
+`brew install yukitsune/formulae/<formula>`
 
-Or `brew tap yukitsune/yukitsune` and then `brew install <formula>`.
+Or `brew tap yukitsune/formulae` and then `brew install <formula>`.
 
 ## Documentation
 
