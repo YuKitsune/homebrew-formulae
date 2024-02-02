@@ -4,6 +4,7 @@ cask "sf-mono-nerd-font" do
 
   url "https://github.com/yukitsune/Cupertino/archive/v#{version}.zip"
   name "SF Mono Nerd Font"
+  desc "Apple's SF Mono font infused with Nerd Fonts"
   homepage "https://github.com/YuKitsune/Cupertino"
 
   livecheck do
