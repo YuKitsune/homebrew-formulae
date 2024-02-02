@@ -23,5 +23,5 @@ cask "sf-mono-nerd-font" do
   font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-MediumItalic.otf"
   font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-Regular.otf"
   font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-SemiBold.otf"
-  # font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-SemiBoldItalic.otf"
+  font "SF-Mono-Nerd-Font-v#{version}/SFMonoNerdFont-SemiBoldItalic.otf"
 end
