@@ -2,7 +2,7 @@ cask "sf-mono-nerd-font" do
   version "0.0.14"
   sha256 "d8de7a1e87ead7a5e13cb41e456d83e5d580c06b1e580e21c6e28927e55122be"
 
-  url "https://github.com/yukitsune/Cupertino/archive/v#{version}.zip"
+  url "https://github.com/yukitsune/Cupertino/releases/download/v#{version}/SF-Mono-Nerd-Font-v#{version}.zip"
   name "SF Mono Nerd Font"
   desc "Apple's SF Mono font infused with Nerd Fonts"
   homepage "https://github.com/YuKitsune/Cupertino"
